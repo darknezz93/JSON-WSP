@@ -16,3 +16,5 @@ class Customer(LadonType):
         'nullable': False,
         'default': False
     }
+
+

@@ -2,7 +2,6 @@ from ladon.ladonizer import ladonize
 from ladon.compat import PORTABLE_STRING
 
 from Customer import Customer
-" :"
 
 class CustomerService(object):
 
